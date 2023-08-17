@@ -247,13 +247,12 @@ body{
     opacity: 0;   
 }
 .logo1{
-    width: 200px;
+    width: 112px;
     height: 112px;
 }
 .logo2{
     width: 112px;
     height: 112px;
-    margin: 0 48px 0 0;
 }
 .logo3{
     width: 112px;
@@ -438,13 +437,12 @@ body{
         font-size: 15px;
     }
     .logo1{
-        width: 100px;
+        width: 56px;
         height: 56px;
     }
     .logo2{
         width: 56px;
         height: 56px;
-        margin: 0 22px 0 0;
     }
     .logo3{
         width: 56px;   
